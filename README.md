@@ -19,11 +19,9 @@ HE-seal/
 
 ## 📥 Dataset
 
-The dataset is NOT included in this repository.
+Dataset is hosted on Kaggle:
 
-It will be hosted on Kaggle.
-
-👉 Download link: (to be added)
+👉 https://www.kaggle.com/datasets/xuanyuan/images-for-he-seal
 
 ---
 
